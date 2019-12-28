@@ -158,6 +158,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-stories](https://github.com/richardeschloss/nuxt-stories) - Nuxt module for painless storybooking.
 - [nuxt-ghost-blog](https://github.com/moso/nuxt-ghost-blog) - Turn your Ghost blog into an SSR PWA by using the [Ghost Content API](https://ghost.org/docs/api/v3/content) and Vuex.
 - [nuxt-i18n-boilerplate](https://github.com/Wssn/nuxt-i18n-boilerplate) - Minimalistic Boilerplate for Nuxt.JS applications with fully ready and SEO friendly Nuxt i18n module.
+- [empire-admin](https://github.com/BroCode-Interactive/empire-admin) - An awesome, open-source admin panel template made with NuxtJS and bootstrap-vue. (It's still a work in progress, remember to check regularly for updates)
 
 ### Tools
 
