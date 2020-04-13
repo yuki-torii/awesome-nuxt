@@ -298,6 +298,12 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 **Tutorials published in:**
 
+#### 2020
+
+![Nuxt.js v2][nuxt-v2-label] ![Nuxt.js v1][nuxt-v1-label]
+
+- [Deploying Nuxt.js on Google Cloud Run Serverless](https://dev.to/sakko/deploying-nuxtjs-on-google-cloud-run-1fic)
+
 #### 2019
 
 ![Nuxt.js v2][nuxt-v2-label] ![Nuxt.js v1][nuxt-v1-label]
