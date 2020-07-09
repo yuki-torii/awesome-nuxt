@@ -182,6 +182,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
+- [nuxt-wamp](https://github.com/lajosbencz/nuxt-wamp) - WAMP2 client library, wrapper around autobahn.js
+- [nuxt-gettext](https://github.com/lajosbencz/nuxt-gettext) - Internationalization support using the gettext ecosystem
 
 ### Tools
 
