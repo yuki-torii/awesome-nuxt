@@ -187,6 +187,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
 - [nuxt-highlightjs](https://github.com/Llang8/nuxt-highlightjs) - Highlight.js syntax highlighting for Nuxt JS.
+- [nuxt-userbase-module](https://github.com/ceigh/nuxt-userbase-module) - User authentication and data storage with [Userbase](https://userbase.com).
 
 ### Tools
 
