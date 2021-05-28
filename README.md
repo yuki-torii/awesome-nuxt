@@ -299,6 +299,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 - [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
 - [Lammpee](https://lammpee.de/) ([source](https://github.com/ThornWalli/web-workbench)) - Old operating system as homepage.
+- [Vue - The Road To Enterprise](https://theroadtoenterprise.com) - A website build with Nuxt for "Vue - The Road To Enterprise", which is a book that revolves around advanced concepts, patterns, and best practices, for building large-scale Vue applications.
 
 ### Tutorials
 
