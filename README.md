@@ -321,6 +321,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 #### 2020
 
 - [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/?ref=awesome-nuxt)
+- [When should you Use Nuxt.js instead of Vue.js?](https://medium.com/javascript-in-plain-english/when-should-you-use-nuxt-js-instead-of-vue-js-8558a33b91c6)
 
 #### 2019
 
