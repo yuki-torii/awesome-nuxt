@@ -111,7 +111,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration for Nuxt.
 - [Nuxt Express](https://github.com/uptownhr/nuxt-express-module) - Express module for Nuxt (hot reload).
 - [Vue.js Warehouse](https://github.com/bazzite/vue-warehouse) - Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
-- [nuxt-ts-module](https://github.com/chanlito/nuxt-ts-module) - Tiny module to use TypesScript within Nuxt.js application.
+- [nuxt-ts-module](https://github.com/chanlito/nuxt-ts-module) - Tiny module to use TypeScript within Nuxt.js application.
 - [nuxt-typescript](https://github.com/wagerfield/nuxt-typescript) - Lightening fast type checking and linting with TypeScript and TSLint.
 - [nurdism/nuxtjs-electron](https://github.com/nurdism/nuxtjs-electron) - Utility module that helps you work with electron inside nuxt.
 - [nuxt-babel](https://github.com/wemake-services/nuxt-babel) - Use normal `.babelrc` file with your Nuxt app.
