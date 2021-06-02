@@ -192,6 +192,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-i18n-portfolio-template](https://github.com/kenxdrgn/nuxt-i18n-portfolio-template) - A multi-language portfolio template for Developers.
 
 ### Tools
 
@@ -302,9 +303,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Tutorials
 
-[nuxt-v1-label]: media/nuxt-v1-label.svg 'Nuxt.js v1'
-[nuxt-v2-label]: media/nuxt-v2-label.svg 'Nuxt.js v2'
-[nuxt-v3-label]: media/nuxt-v3-label.svg 'Nuxt.js v3'
+[nuxt-v1-label]: media/nuxt-v1-label.svg "Nuxt.js v1"
+[nuxt-v2-label]: media/nuxt-v2-label.svg "Nuxt.js v2"
+[nuxt-v3-label]: media/nuxt-v3-label.svg "Nuxt.js v3"
 
 > The labels show the Nuxt.js versions that were available at that time.
 
