@@ -212,6 +212,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Showcase
 
+- [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
