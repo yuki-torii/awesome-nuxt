@@ -214,6 +214,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
+- [Portfolio of Jighdan](https://jighdan.github.io/) - Web developer portfolio made with Nuxt.
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
 - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
 - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website.
