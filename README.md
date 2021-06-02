@@ -192,6 +192,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-blurhash](https://github.com/filsuck/nuxt-blurhash) - Nuxt module for simple integration with [BlurHash](https://blurha.sh/) Algorithm
 
 ### Tools
 
@@ -213,7 +214,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 ### Showcase
 
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
-- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
+- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US. Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
 - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
 - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website.
@@ -302,9 +303,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Tutorials
 
-[nuxt-v1-label]: media/nuxt-v1-label.svg 'Nuxt.js v1'
-[nuxt-v2-label]: media/nuxt-v2-label.svg 'Nuxt.js v2'
-[nuxt-v3-label]: media/nuxt-v3-label.svg 'Nuxt.js v3'
+[nuxt-v1-label]: media/nuxt-v1-label.svg "Nuxt.js v1"
+[nuxt-v2-label]: media/nuxt-v2-label.svg "Nuxt.js v2"
+[nuxt-v3-label]: media/nuxt-v3-label.svg "Nuxt.js v3"
 
 > The labels show the Nuxt.js versions that were available at that time.
 
@@ -373,7 +374,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5)
 - [Create and publish a Nuxt.js powered website on GitHub pages](https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372)
 - [Introduction To Server Rendered Vue.js Apps With Nuxt](https://medium.com/codingthesmartway-com-blog/introduction-to-server-rendered-vue-js-apps-with-nuxt-91dbfd80795a)
-- [深入NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
+- [深入 NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
 - [用 nuxt 开发部署一个 v2ex](https://orangexc.xyz/2017/06/19/n2ex/)
 - [Integrate Vue InstantSearch with Nuxt.js for server side rendered search with Algolia](https://community.algolia.com/vue-instantsearch/advanced/integrate-with-nuxt.html)
 - [Handling server side rendering and SEO with nuxt.js](https://medium.com/@devlob/handling-server-side-rendering-and-seo-with-nuxt-js-fa8a2b0ae2ee)
@@ -463,7 +464,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 ### Projects Using Nuxt.js
 
 - [Amujamu](https://amujamu.com) - Amujamu has the largest collection of Thailand tours. Book your desired one for the best deal. Amujamu, the best of its kind, should be your first choice when it comes to booking tours for Thailand. Tourism Authority of Thailand (TAT) approved tours &amp; activity marketplace.
-- [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches  content from Strapi using Apollo.
+- [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches content from Strapi using Apollo.
 - [sum.cumo](https://www.sumcumo.com/en) - Sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
 - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
 - [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
